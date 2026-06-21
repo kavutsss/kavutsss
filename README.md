@@ -1,4 +1,4 @@
-<img src="./watermarked_img_4407988166857705764.png" alt="kavutsss GitHub Banner" width="100%">
+
 
 # Hi there, I'm Erika! 
 
