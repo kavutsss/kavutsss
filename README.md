@@ -1,16 +1,39 @@
-## Hi there 👋
+<img src="./watermarked_img_4407988166857705764.png" alt="kavutsss GitHub Banner" width="100%">
 
-<!--
-**kavutsss/kavutsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Erika! 
 
-Here are some ideas to get you started:
+A passionate **Full-Stack Software Engineer** dedicated to building clean, efficient, and impactful web applications. I love bridging the gap between robust backend logic and intuitive frontend user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##   About Me
+
+-  Currently refining my craft in an intensive Full-Stack Software Engineering program at **Moringa School** (Expected completion: 2026).
+-  Building with a focus on containerization, scalable database architectures, and clean API design.
+- Deeply interested in AI integration—exploring how to leverage tools like the **Google Gemini API** and frameworks like **LangChain** to build smarter web apps.
+-  Constantly sharpening my algorithmic thinking and problem-solving skills on platforms like LeetCode and Codewars.
+
+##   Featured Projects
+
+###  Hospital Patient Records Management System(Medrecord)
+A robust backend-driven web system designed to securely streamline medical record-keeping.
+- **Tech Stack:** Python, FastAPI, PostgreSQL, Docker
+
+##  Tech Stack & Tools
+
+**Languages & Frameworks:**
+- Frontend: `HTML5` | `CSS3` | `JavaScript` | `React`
+- Backend: `Python` | `FastAPI`
+
+**Databases & DevOps:**
+- `PostgreSQL` | `Docker` | `WSL (Windows Subsystem for Linux).`
+
+**Utilities & Environments:**
+- `VS Code` | `Git & GitHub`
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/erika-gwiyo-4a15633a4]
+- **Email:** [erikagwiyo@gmail.com]
+
+"Continuous learning is the minimum requirement for success in any field." 
