@@ -1,3 +1,4 @@
+<img width="1584" height="672" alt="image" src="https://github.com/user-attachments/assets/532f9074-d0c8-4be0-93da-ddc1b0d87e9b" />
 
 
 # Hi there, I'm Erika! 
@@ -16,7 +17,7 @@ A passionate **Full-Stack Software Engineer** dedicated to building clean, effic
 ###  Hospital Patient Records Management System(Medrecord)
 A robust backend-driven web system designed to securely streamline medical record-keeping.
 - **Tech Stack:** Python, FastAPI, PostgreSQL, Docker
-
+* ** I aim to increase the number of projects in my repository by the end of the year, to gain insight into learning and becoming a better software engineer
 ##  Tech Stack & Tools
 
 **Languages & Frameworks:**
