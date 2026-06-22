@@ -1,6 +1,6 @@
 
 <img width="1584" height="672" alt="Gemini_Generated_Image_val5f3val5f3val5" src="https://github.com/user-attachments/assets/4c3a58cc-2649-484a-bcff-e3b79fa7f7bf" />
-##   Hello World! I'm  Erika, a Full-Stack Software engineer turning code into impactful software applications
+  Hello World! I'm  Erika, a Full-Stack Software engineer turning code into impactful software applications
 
 A passionate **Full-Stack Software Engineer** dedicated to building clean, efficient, and impactful web applications. I love bridging the gap between robust backend logic and intuitive frontend user experiences.
 
