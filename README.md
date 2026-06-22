@@ -1,4 +1,5 @@
-<img width="1584" height="672" alt="image" src="https://github.com/user-attachments/assets/532f9074-d0c8-4be0-93da-ddc1b0d87e9b" />
+
+<img width="1584" height="672" alt="Gemini_Generated_Image_val5f3val5f3val5" src="https://github.com/user-attachments/assets/4c3a58cc-2649-484a-bcff-e3b79fa7f7bf" />
 
 
 # Hi there, I'm Erika! 
